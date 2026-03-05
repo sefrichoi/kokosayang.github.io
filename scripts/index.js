@@ -24,7 +24,7 @@ function validateForm() {
     Swal.fire({
       icon: "error",
       title: "AIIIYYYOOOOOO!",
-      text: "Aku marah maray iya kalau lupa",
+      text: "Aku marah marah iya kalau lupa",
       confirmButtonText: "Coba lagi",
       confirmButtonColor: "#ff7675",
     });
